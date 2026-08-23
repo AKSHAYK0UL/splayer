@@ -25,8 +25,8 @@ dependencies:
   wakelock_plus: ^1.2.10
   youtube_explode_dart:
     git:
-      url: https://github.com/anandnet/youtube_explode_dart.git
-      ref: 1d9ec9baa806705b1d859260eeb389ec28c6b024 
+      url: https://github.com/AKSHAYK0UL/Youtube-Client-Dart.git
+      ref: 8c8d0e21c43178691c1f17cf214251b632532b61 
 
 
 
