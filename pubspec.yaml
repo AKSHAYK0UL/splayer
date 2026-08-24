@@ -25,7 +25,7 @@ dependencies:
   youtube_explode_dart:
     git:
       url: https://github.com/AKSHAYK0UL/Youtube-Client-Dart.git
-      ref: 44f64bf45dc69115c7e552b2ead43a7dfa05a061 
+      ref: f2697670a84b6401d53e44ac4270d1b0ab92c939 
 
 
 
